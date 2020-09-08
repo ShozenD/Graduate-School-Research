@@ -9,6 +9,9 @@
 The things taught in class can be learned at another college, through and online coursera course, or even on your own. Frankly, while it is helpful to see what classes you would be taking if you were accepted, anyone can write about these in their Statement of Purpose. 
 
 ## Data Science Institute
+
+[**Pamphlet**](https://www.imperial.ac.uk/media/imperial-college/data-science-institute/DSI_booklet_Web.pdf)
+
 ### The Basics
 * One of the six Global Institues of Imperial College London, created to address important issues facing the world today (e.g. health inequities, global warming, opportunities created by big data and molecular engineering)
 
