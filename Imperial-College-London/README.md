@@ -15,7 +15,7 @@ The things taught in class can be learned at another college, through and online
 * Hosts researchers and students conducting their own academic research ona range of topics within the five crosscutting research themes of `Analytics`, `Biomedical Informatics`, `Data Learning`, `Image Informatics`, and `Visualization`. 
 
 ### Laboratories
-#### Algorithmic Society Lab
+#### 1. Algorithmic Society Lab
 * Provide leadership in the UK and beyond in the safe, anonymous, and ethical use of large-scale behavorial datasets coming from the Internet of Things(IoT) devices, mobile phones, credit cards and browsers. 
 
 * **Their Mission** <ol>
@@ -38,7 +38,7 @@ The things taught in class can be learned at another college, through and online
 
 * **First Impression**: All the professors are in the computer science department. Given that their work is mostly privacy related, this is unsurprising. As a Statistics student I should probably take a look at the other labs and come back to it later.
 
-#### Behavorial Analytics Lab
+#### 2. Behavorial Analytics Lab
 * Predicting human and biological behaviour. The lab focuses in on tthe analysis of human behaviour using data-driven analysis and prediction, including the development of methods & algorithms to move from Big Data to Big Knowledge.
 
 * Brings together academics from across all the faculties in Imperial College including `Computing`, `Bioengineering`, `Medicine`, `Neuroscience`, and `Electrical Engineering`
@@ -64,7 +64,7 @@ The things taught in class can be learned at another college, through and online
 
 * **First Impression**: Initially, I though this laboratory was about using things such as smartphone data to research human behavior. However, after breifly reading the homepage, I get the impression that it is more about the brain. 
 
-#### Business Analytics Lab
+#### 3. Business Analytics Lab
 * **Their Mission**: The future will be radically reconstituted by breakthroughs in data science and business analytic, brining fundamental changes to how companies manage people, operations, and marketing. Pursuing hig-impact research in partnership with organisations that will write the future.
 
 * **The People There** <ul>
@@ -79,7 +79,7 @@ The things taught in class can be learned at another college, through and online
     <li>Dr. Miguel Molina-Solana (Machine Learning/Artificial Intelligence/Data Visualization)
   </ul>
 
-#### Data Assimilation Lab
+#### 4. Data Assimilation Lab
 * Promotes and leads scientific advances and tchnological innovations through data assimilation, sensitivity/uncertainty/error analysis, design optimization and control, and compuutational modelling, simulatioon and visualisation technologies. 
 
 * **Research Aims** <ol>
@@ -104,7 +104,7 @@ The things taught in class can be learned at another college, through and online
 
 #### Data Economy Lab
 
-#### Machine Learning Lab
+#### 5. Machine Learning Lab
 * Develop autonomous decision-making systems, which close the perception-action-learning loop while learning from small amounts of data
 
 * **Their Mission**: Promote and lead scientific advances in data-efficient machine learning, i.e. the ability to learn in complex domains without requiring large quantities of data. `Probalistic Modelling`, `Incorporation of domain or structural prior knowledge`, `transfer learning`, `semi-supervised learning`, `active learning`, `Bayesian optimization`, and `reinforcement learning`.
@@ -116,7 +116,7 @@ The things taught in class can be learned at another college, through and online
     <li>Professor Simon Schultz (jointly with Dr. Seth Flaxman and Dr. Stephen Brickley)
   </ul>
 
-#### Social And Cultural Analytics Lab
+#### 6. Social And Cultural Analytics Lab
 * Discover how culture and society work
 * Mathematicians, physicists, biologists, computer scientists, and engineers.
 * the evolution of music, the neurobiology of creativity, the dynamics of twitter networks, digital markets, online collaborations, the application of text mining to health and much else besides.
