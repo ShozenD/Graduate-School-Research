@@ -65,8 +65,48 @@ The things taught in class can be learned at another college, through and online
 * **First Impression**: Initially, I though this laboratory was about using things such as smartphone data to research human behavior. However, after breifly reading the homepage, I get the impression that it is more about the brain. 
 
 #### Business Analytics Lab
+
+
 #### Data Assimilation Lab
+* Promotes and leads scientific advances and tchnological innovations through data assimilation, sensitivity/uncertainty/error analysis, design optimization and control, and compuutational modelling, simulatioon and visualisation technologies. 
+
+* **Research Aims** <ol>
+    <li>Bring to bear recent developments in data assimilation into advanced models and apply these to science and engineering. The data assimilation techniques developed in the DA laboratory will be used to combine observation measurements with different models in Engineering.</li>
+    </ol>
+
+* **The People There** <ul>
+    <li>Chris Pain
+    <li>Dr. Fangxin Fang
+    <li>Prof. I.M. Navon
+    <li>Risella Arucci
+    <li>Professor Matthew Jackson
+    <li>Professor Omar Matar
+    <li>Professor Cedo Maksimovic
+    <li>Professor Eric Yeatman
+    <li>Professor Jiang Zhu
+    <li>Dr. Razvan Stefanescu
+    <li>Dr. Jefferson Gomes
+  </ul>
+
+* **First Impression**: I am still not sure about what data assimilation really means. Need to do more research.
 
 #### Data Economy Lab
+
 #### Machine Learning Lab
+
 #### Social And Cultural Analytics Lab
+* Discover how culture and society work
+* Mathematicians, physicists, biologists, computer scientists, and engineers.
+* the evolution of music, the neurobiology of creativity, the dynamics of twitter networks, digital markets, online collaborations, the application of text mining to health and much else besides.
+
+* **The People There** <ul>
+    <li>Armand Leroi (Life Science)
+    <li>Sophia Yaliraki (Chemistry)
+    <li>Mauricio Barahona (Mathematics)
+    <li>Henik Jensen (Mathematics)
+    <li>Dr. Tim Evans (Physics)
+    <li>Dr. Mark Kennedy (Business)
+    <li>Dr. Aldo Faisaal (Bioengineering and Computing)
+    <li>Dr. James Rosindell (Life Sciences)
+    <li>Dr. Mariano Beguerisse (Mathematics)
+  </ul>
