@@ -65,7 +65,19 @@ The things taught in class can be learned at another college, through and online
 * **First Impression**: Initially, I though this laboratory was about using things such as smartphone data to research human behavior. However, after breifly reading the homepage, I get the impression that it is more about the brain. 
 
 #### Business Analytics Lab
+* **Their Mission**: The future will be radically reconstituted by breakthroughs in data science and business analytic, brining fundamental changes to how companies manage people, operations, and marketing. Pursuing hig-impact research in partnership with organisations that will write the future.
 
+* **The People There** <ul>
+    <li>Dr. Mark Kennedy (Business Analytics)
+    <li>Professor Jonathan Haskel (Economics)
+    <li>Professor Kalyan Talluri (Business)
+    <li>Dr. Catarina Sismeiro (Marketing)
+    <li>Marisa Miraldo (Healthcare Reform)
+    <li>Dr. Wolfram Wisemann (Operations/Logistics/Production Planning/Supply Chain Management)
+    <li>Dr. Julio Amador (Economics/Marketing/Political Science)
+    <li>Dr. Paolo Zaffaroni (Financial Econometrics)
+    <li>Dr. Miguel Molina-Solana (Machine Learning/Artificial Intelligence/Data Visualization)
+  </ul>
 
 #### Data Assimilation Lab
 * Promotes and leads scientific advances and tchnological innovations through data assimilation, sensitivity/uncertainty/error analysis, design optimization and control, and compuutational modelling, simulatioon and visualisation technologies. 
@@ -93,6 +105,16 @@ The things taught in class can be learned at another college, through and online
 #### Data Economy Lab
 
 #### Machine Learning Lab
+* Develop autonomous decision-making systems, which close the perception-action-learning loop while learning from small amounts of data
+
+* **Their Mission**: Promote and lead scientific advances in data-efficient machine learning, i.e. the ability to learn in complex domains without requiring large quantities of data. `Probalistic Modelling`, `Incorporation of domain or structural prior knowledge`, `transfer learning`, `semi-supervised learning`, `active learning`, `Bayesian optimization`, and `reinforcement learning`.
+
+* **The People There** <ul>
+    <li>Dr. Ke Han
+    <li>Dr. Marc Deisenroth
+    <li>Dr. Ruth Misener
+    <li>Professor Simon Schultz (jointly with Dr. Seth Flaxman and Dr. Stephen Brickley)
+  </ul>
 
 #### Social And Cultural Analytics Lab
 * Discover how culture and society work
@@ -110,3 +132,7 @@ The things taught in class can be learned at another college, through and online
     <li>Dr. James Rosindell (Life Sciences)
     <li>Dr. Mariano Beguerisse (Mathematics)
   </ul>
+
+* **First Impression**: Of all the labs in the data science institute, this seems to be the best fit for me. It aligns with my interests in population data and I can link my past experiences to the research here.
+
+* Contact Information: scalab@imperial.ac.uk
