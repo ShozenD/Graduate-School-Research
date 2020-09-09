@@ -2,7 +2,7 @@
 
 ## Dr. Mauricio Barahona
 
-### Data Driven Modelling and Characterisation of Task Completion Seqwuences in Online Courses
+### Data Driven Modelling and Characterisation of Task Completion Sequences in Online Courses
 
 R. L. Peach, S. F. Greenbury, I. G. Johnston, S. N. Yaliraki, D. Lefevre, and M. Barahona, “Data-driven modelling and characterisation of task completion sequences in online courses,” arXiv:2007.07003 [cs], Jul. 2020, Accessed: Sep. 08, 2020. [Online]. Available: http://arxiv.org/abs/2007.07003.
 
