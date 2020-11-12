@@ -12,7 +12,7 @@
 ## Centre for Data Science
 
 ## Centre for Computational Statistics and Machine Learning
-[Homepage](http://www.csml.ucl.ac.uk/people)å
+[Homepage](http://www.csml.ucl.ac.uk/people)
 
 ## Gatsby Computational Neural Science Unit
 1. [Homepage](https://www.gatsby.ucl.ac.uk)
